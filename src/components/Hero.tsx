@@ -19,9 +19,6 @@ const Hero: React.FC = () => {
                   <span className="text-8xl font-bold text-gray-300">P</span>
                 </div>
               </div>
-              <div className="absolute -bottom-4 -right-4 bg-gradient-to-r from-purple-600 to-blue-500 text-white text-sm font-bold px-4 py-2 rounded-full">
-                <span>开发者</span>
-              </div>
             </div>
           </div>
           
